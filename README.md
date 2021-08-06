@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Mi nombre es Melina. 
+Soy estudiante de sistemas, orientada a el desarrollo de software. También cuento con conocimientos en análisis y testing funcional.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinaze)](https://github.com/melinaze/github-readme-stats)
+
+
+
 <!--
 **Melinaze/Melinaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

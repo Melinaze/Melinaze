@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melina Zelaya</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 📄 Mi nombre es Melina. Soy estudiante de sistemas, orientada a el desarrollo de software. También cuento con conocimientos en análisis y testing funcional.
+- 📄 Mi nombre es Melina. Estudiante de sistemas desde 2018.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +17,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinaze&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaze&layout=compact)](https://github.com/melinaze/github-readme-stats)
+
 
 
